@@ -1,0 +1,39 @@
+
+h1 {
+	color: blue;
+	text-align: center;
+	background: yellow;
+}
+ul{
+	color: red;
+}
+ol{
+	color: green;
+}
+a{
+	color: brown;
+	background: yellow;
+}
+
+button{
+	font-family: arial;
+	font-weight: bold;
+	background-color: blue;
+	padding: 5px;
+	font-size: 20px;
+	margin: 2px;
+	color: red;
+
+}
+button:hover{
+	background-color: yellow;
+}
+
+table{
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+th, td{
+	border: 1px solid black;
+	padding: 12px;
+}
